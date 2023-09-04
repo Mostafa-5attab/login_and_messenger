@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876811372703",
+    "project_id": "messenger-2c8e3",
+    "storage_bucket": "messenger-2c8e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876811372703:android:76106d850c69266c793aaa",
+        "android_client_info": {
+          "package_name": "com.khattab.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876811372703-oanbndcrara18ub4u3ehqe7dpqdqi1lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxzOu1T07XDDAvdqUAPgknx6MiyJCsmxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876811372703-oanbndcrara18ub4u3ehqe7dpqdqi1lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
